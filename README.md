@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ali and I'm a Computer Science and Artificial Intelligence student student from Bahrain, currently studying at the University of Sussex.
+My name is Ali and I'm a Computer Science and Artificial Intelligence student from Bahrain, currently studying at the University of Sussex.
 
 📈 Work experience: 
 * Software Engineer intern at JP Morgan Chase & Co. - Full-stack development on the Market Data and Tradable Assets team. [United Kingdom, Summer 2022]
