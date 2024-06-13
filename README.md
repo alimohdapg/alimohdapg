@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ali and I'm a Computer Science and Artificial Intelligence student from Bahrain, currently studying at the University of Sussex.
+My name is Ali and I'm a Software Engineer from Bahrain, currently working at Citigroup.
 
 📈 Work experience: 
 * Software Engineer at Citigroup - Full-stack development on the Equity Derivatives Risk and Pricing team. [United Kingdom, Summer 2023 - Present]
