@@ -3,6 +3,7 @@
 My name is Ali and I'm a Computer Science and Artificial Intelligence student from Bahrain, currently studying at the University of Sussex.
 
 📈 Work experience: 
+* Software Engineer at Citigroup - Full-stack development on the Equity Derivatives Risk and Pricing team. [United Kingdom, Summer 2023 - Present]
 * Software Engineer intern at JP Morgan Chase & Co. - Full-stack development on the Market Data and Tradable Assets team. [United Kingdom, Summer 2022]
 * Financial Analyst intern at BAPCO (Bahrain Petroleum Company) - Financial analysis at BAPCO's financial division. [Bahrain, Winter 2019]
 
