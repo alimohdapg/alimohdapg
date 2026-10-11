@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ali and I'm a Software Engineer from Bahrain, currently working at Citigroup.
+My name is Ali and I'm a Software Engineer from Bahrain, currently working at HubSpot.
 
 📈 Work experience: 
 * Software Engineer at HubSpot - Backend development across GTM Engagement teams. [United Kingdom, Fall 2024 - Present]
